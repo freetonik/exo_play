@@ -1,2 +1,2 @@
 # exo_play
-Playing with Assembly language in high school
+Just playing with Assembly back in high school, dreaming about creating my own OS.
